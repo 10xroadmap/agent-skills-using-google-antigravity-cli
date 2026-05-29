@@ -9,7 +9,7 @@ curl -fsSL https://antigravity.google/cli/install.sh | bash
 irm https://antigravity.google/cli/install.ps1 | iex
 ```
 
-## Step 2: lone the repository
+## Step 2: Clone the repository
 ```bash
    git clone https://github.com/10xroadmap/agent-skills-using-google-antigravity-cli
    cd agent-skills-using-google-antigravity-cli
