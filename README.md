@@ -69,3 +69,6 @@ agy -p ""
 
 # GIT REPO URL
 https://github.com/10xroadmap/agent-skills-using-google-antigravity-cli 
+
+# License or Terms of Use
+This project is open-source. However, no part of the source code may be republished, modified, or distributed for commercial or public purposes without giving appropriate credit to the original author.
