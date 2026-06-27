@@ -1,3 +1,19 @@
+### Youtube Videos
+
+1. [Antigravity SDK 2.0 For Beginners](https://www.youtube.com/watch?v=JoQ3bbusX9Y)
+
+2. [
+Understanding Tools, Hooks & Observability in Antigravity SDK 2.0](https://www.youtube.com/watch?v=Qfdd2Qpbtik)
+
+3. [
+Custom Slash Commands for Antigravity 2.0](https://www.youtube.com/watch?v=_aAd-OlFzNM)
+
+4. [Using custom scripts with Agent Skills and Antigravity](https://www.youtube.com/watch?v=ZnYc_8AO-9o)
+
+5. [
+Agent Skills with Antigravity CLI](https://www.youtube.com/watch?v=eMy8WZSWS4I)
+
+
 # How to run
 ## Step 1: Install Antigravity
 **Mac / Linux**
@@ -54,7 +70,7 @@ After Skill is written and saved, you may test skill inside agy terminal
 agy -p ""
 ```
 - To test skill **`funny-names`**, type:
-`Suggest a funny name for Dennis Ritchie`
+``Suggest a funny name for Dennis Ritchie``
 
 - To test skill **`public-repo-count`**, type:
 `Find the number of public repositories created by user 10xroadmap`
